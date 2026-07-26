@@ -1,6 +1,8 @@
 ###############################################################################
 # Necessary Check
 
+export CONNAC_VER=1_0
+
 $(info [wlan] CONNAC_VER=$(CONNAC_VER))
 $(info [wlan] MODULE_NAME=$(MODULE_NAME))
 
